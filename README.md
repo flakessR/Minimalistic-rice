@@ -1,6 +1,6 @@
 ## Minimalistic rice
   
- - This is my minimalistic rice, it uses [Waybar](https://github.com/Alexays/Waybar) for its bar, [River-classic](https://codeberg.org/unixchad/river-classic) for the Window manager, [Fuzzel](https://codeberg.org/dnkl/fuzzel) as launcher and [Foot](https://codeberg.org/dnkl/foot) for the terminal.
+  This is my minimalistic rice, it uses [Waybar](https://github.com/Alexays/Waybar) for its bar, [River-classic](https://codeberg.org/unixchad/river-classic) for the Window manager, [Fuzzel](https://codeberg.org/dnkl/fuzzel) as launcher and [Foot](https://codeberg.org/dnkl/foot) for the terminal.
 
 ### This is how it should look like: 
 
@@ -9,10 +9,10 @@
 ## Installation
 
  ### These packages are needed to install, as said before: 
-  - Foot
-  - Waybar
-  - River-classic
-  - Fuzzel
+   Foot
+   Waybar
+   River-classic
+   Fuzzel
 
  To install it, just:
  
