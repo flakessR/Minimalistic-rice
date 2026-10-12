@@ -9,11 +9,12 @@
 ## Installation
 
  ### These packages are needed to install, as said before: 
-   Foot
-   Waybar
-   River-classic
-   Fuzzel
+   - Foot
+   - Waybar
+   - River-classic
+   - Fuzzel
 
+ ##
  To install it, just:
  
  ```
