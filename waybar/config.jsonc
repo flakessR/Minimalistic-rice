@@ -1,0 +1,35 @@
+{ 
+  "modules-left": [
+    "custom/logo"
+  ],
+
+  "modules-center": [
+    "river/tags",
+  ],
+
+  "modules-right": [
+    "clock",
+    "network",
+  ],
+
+  "river/tags": {
+    "num-tags": 5,
+  },
+
+  "custom/logo": {
+    "format": " ",
+    "on-click": "fuzzel"
+  },
+
+  "network": {
+    "format-wifi": "󰤥 ",
+    "format-ethernet": " ",
+    "format-disconnected": "󰤭 ",
+  },
+
+ "clock": {
+    "format": "{:%I:%M %p}",
+  },
+ 
+}
+

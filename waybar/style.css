@@ -1,0 +1,48 @@
+@import "colors.css";
+
+* {
+  border-radius: 0;
+  animation: none;
+  transition: none;
+  font-size: 12px;
+}
+
+window#waybar {
+  background-color: @background;
+  border-bottom: 3px solid @blue-magenta;
+  font-family: "Jetbrains Mono Nerd Font";
+}
+
+#tags {}
+
+#tags button {
+  color: @foreground;
+  border: none;
+  outline: none;
+  padding: 0px 0px;
+  margin: 5px 7px 5px 7px;
+}
+
+#tags button:hover {
+  background: @blue-magenta;
+  color: @background;
+}
+
+#custom-logo {
+  color: @blue-magenta;
+  font-size: 20px;
+  padding: 0px 10px;
+}
+
+#network {
+  color: @blue-magenta;
+  font-size: 15px;
+  padding: 0px 10px;
+}
+
+#clock {
+  color: @foreground;
+  padding: 0px 10px;
+  font-size: 10px;
+}
+
