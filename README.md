@@ -6,7 +6,7 @@
 
 ![Rice](images/image.webp)
 
-### Installation
+## Installation
 
  ### These packages are needed to install, as said before: 
   - Foot
