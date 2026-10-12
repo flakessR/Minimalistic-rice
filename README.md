@@ -8,10 +8,16 @@
 
 ### Installation
 
- - To install it, just:
+ ### These packages are needed to install, as said before: 
+  - Foot
+  - Waybar
+  - River-classic
+  - Fuzzel
+
+ To install it, just:
  
  ```
  git clone https://github.com/flakessR/Minimalistic-rice
  ```
-
- - Then move all the files inside the .config folder and adjust it to your likings.
+  
+ Then move all the files inside the .config folder and adjust it to your likings.
